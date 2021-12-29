@@ -13,4 +13,6 @@ make run # run the app
 
 ## Result
 ![Result](_/result.png)
+
+## Coverage
 ![Coverage](_/coverage.png)
