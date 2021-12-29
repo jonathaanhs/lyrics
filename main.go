@@ -44,7 +44,7 @@ func main() {
 	fmt.Printf("ReciteSubject(3) : %s \n\n", ReciteSubject(3))
 
 	fmt.Println("C answer")
-	fmt.Printf("ReciteRand() : %s\n", ReciteSubjectRand())
+	fmt.Printf("ReciteSubjectRand() : %s\n", ReciteSubjectRand())
 }
 
 func Recite(num int) string {
