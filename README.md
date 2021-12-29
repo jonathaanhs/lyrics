@@ -12,7 +12,7 @@ make run # run the app
 ```
 
 ## Result
-![Result](_/result.png)
+![Result](_/result_v2.png)
 
 ## Coverage
 ![Coverage](_/coverage.png)
